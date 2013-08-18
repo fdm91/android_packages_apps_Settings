@@ -366,7 +366,7 @@
     <string name="title_toggle_airplane">Modalità aeroplano</string>
     <string name="title_toggle_flashlight">Torcia LED</string>
     <string name="title_toggle_sleep">Blocca telefono</string>
-    <string name="title_toggle_media_play_pause">Media: Play/Pause</string>
+    <string name="title_toggle_media_play_pause">Media: Play/Pausa</string>
     <string name="title_toggle_media_previous">Media: Traccia precedente</string>
     <string name="title_toggle_media_next">Media: Traccia successiva</string>
     <string name="title_toggle_lte">LTE</string>
